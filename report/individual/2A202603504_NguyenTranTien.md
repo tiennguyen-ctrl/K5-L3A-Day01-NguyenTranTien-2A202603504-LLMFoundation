@@ -1,6 +1,6 @@
 # Báo cáo cá nhân — Day 01: Lọc tin nhắn rác bằng ML, DL, Embedding và LLM
 
-> Đổi tên file này thành `MSSV_HoTen.md` của bạn, ví dụ `2A20260000_NguyenVanAn.md`, rồi điền từng mục. Xoá các dòng hướng dẫn in nghiêng khi xong.
+
 
 - **MSSV:2A202603504**
 - **Họ và tên: Nguyễn Trần Tiến**
@@ -27,7 +27,6 @@
 | 4b. LLM lớn zero-shot | — | 1.000 | 1170.340 | 0.066 |
 | 4c. LLM nhỏ few-shot | — | 1.000 | 2011.747 | 0.026 |
 
-*LLM chỉ đo trên SUB 40 tin, nên không có F1 (test). Độ trễ phụ thuộc máy Colab (CPU/GPU) ở mỗi lần chạy.**
 
 ## 3. Dự đoán và thực tế
 
